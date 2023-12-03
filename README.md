@@ -1,4 +1,4 @@
-﻿# Lethal Shock Company
+# Lethal Shock Company
 
 Provides integration with [PiShock](https://pishock.com/#/) to allow for disciplining your under-performing employees.
 
